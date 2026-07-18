@@ -70,7 +70,7 @@ Budget planning should include sugarcrm pricing, administrator time, training, m
 
 Organizations benefit from SugarCRM when customer information is spread across spreadsheets, inboxes, ticket tools, and disconnected sales notes. A structured sugarcrm review is especially useful for companies that need account visibility, pipeline discipline, and repeatable follow-up. If managers want better forecasts and representatives want less context switching, SugarCRM can become the shared customer workspace.
 
-![SugarCRM dashboard showing sales pipeline, customer accounts, and support activity](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmI_kFXsvH1bkn5AzBf6gaJZG3Bkn3MD2346Mu9xJlNmDPTIJH2B7aL4&s=10)
+![SugarCRM dashboard showing sales pipeline, customer accounts, and support activity](https://www.cxtoday.com/wp-content/uploads/2023/10/sugarcrm-generativeai.jpg)
 
 ## Practical Setup Questions
 
